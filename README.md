@@ -1,6 +1,7 @@
 # Build for 
-# Automate-For-Good
-## Amazing-Kitechen
+# Automate-For-Good hackathon 
+check it out :- https://devpost.com/software/automate-configuration 
+## Amazing-Kitchen
 ## Inspiration
 
 Doing configuration need an extra time and effort. You can use chef to configure the Operating System with cookbooks. 
